@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+!.env.example
+.vercel
+.output 
+
+# dbschema/edgeql-js  # todo: once generated files used for vercel deployment, don't check these in
+
